@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e688517-0e72-46cf-8902-5565be0ac2d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Google_App_Engine_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Google_App_Engine_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hanlder/dialog_flow_fulfillment_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/hanlder/dialog_flow_fulfillment_handler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +16,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZFEha0FCUqW3HynD0cDSbZKqEj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +26,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="dr-fin" type="Python.AppEngineServer" factoryName="App Engine server">
@@ -51,18 +56,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584426561986</updated>
-      <workItem from="1584426572523" duration="106000" />
+      <workItem from="1584426572523" duration="362000" />
+      <workItem from="1584431634457" duration="272000" />
+      <workItem from="1584432533266" duration="371000" />
+      <workItem from="1584440790743" duration="140000" />
+      <workItem from="1584442326610" duration="140000" />
+      <workItem from="1584460859101" duration="201000" />
+      <workItem from="1584464580522" duration="7000" />
+      <workItem from="1584464601134" duration="65000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="573" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1584426647118">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1584431671122">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="573" y="364" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1584426647118" />
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1584431671122" />
+    <state x="573" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1584460861935">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="573" y="376" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1584460861935" />
+    <state x="573" y="364" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1584442327806" />
     <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1584426670270">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
