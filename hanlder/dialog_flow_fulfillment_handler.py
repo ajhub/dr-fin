@@ -146,9 +146,3 @@ class DialogFlowFulfillmentHandler(webapp2.RequestHandler):
 
         logging.info("Trying to load user with user name - " + user_name.lower())
         self.user_obj = User.query(User.name == user_name.lower()).get()
-
-
-
-
-
-
