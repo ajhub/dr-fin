@@ -1,0 +1,36 @@
+application: team-tbd-dev
+version: peeyush
+
+runtime: python27
+threadsafe: true
+
+#For the sake of the mobile users the max pending latency will be just a second and we will always have at least two instances idle.
+#automatic_scaling:
+#  min_instances: 1
+#  max_instances: 1
+
+instance_class: F1 #   #F4_1G - https://developers.google.com/appengine/docs/adminconsole/performancesettings#Setting_the_Frontend_Instance_Class
+
+#env_variables:
+#  GAE_USE_SOCKETS_HTTPLIB : 'anyvalue'
+
+builtins:
+- deferred: on
+
+inbound_services:
+- warmup
+
+handlers:
+
+- url: /_ah/queue/.+
+  script: main.app
+  login: admin
+
+- url: /.*
+  script: main.app
+  secure: always
+
+libraries:
+- name: webapp2
+  version: "2.5.1"
+
